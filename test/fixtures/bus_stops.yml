@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bus: 
+  time: 2014-05-26 15:13:34
+  bus_id: MyString
+
+two:
+  bus: 
+  time: 2014-05-26 15:13:34
+  bus_id: MyString
